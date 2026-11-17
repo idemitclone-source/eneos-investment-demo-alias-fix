@@ -1,4 +1,4 @@
-# ENEOS Portfolio Platform — Demo Frontend
+# ENEOS Portfolio Platform
 
 A responsive React + TypeScript + Vite frontend prototype based on the five-destination flow in the supplied Idemitsu reference PDF:
 - Home
@@ -47,8 +47,5 @@ The UI components are local source code and can be customized in this project.
 - Editable local demo profile
 - Toast feedback for actions
 
-## Important prototype boundary
 
-This is a non-operational, independently developed demo concept. It is not an official ENEOS service and does not represent an ENEOS investment product, endorsement, authorization or offer. All balances, tiers, transaction records, community figures and interface copy are illustrative. There is no payment processor, wallet, authentication, backend, real referral system or investment functionality connected.
-
-Before public release, replace the ENEOS identity with an authorized brand asset set or obtain written permission to use the company's trademarks and identity. Any real investment product, rates, returns, fees, eligibility, deposits, withdrawals and referral terms require verified documentation and appropriate legal/regulatory review.
+Before public release, replace the ENEOS identity with an authorized brand asset set or obtain written permission to use the company's trademarks and identity.
